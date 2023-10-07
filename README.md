@@ -1,5 +1,5 @@
 <!-- <div align="center">
-<img src="https://i.imgur.com/O75Bwtl.gif" alt="Rahul J" width="100%" /> 
+<img src="https://i.imgur.com/O75Bwtl.gif" alt="Rahul J" width="100%" />
 </div>  -->
 <div align="center">
   <h1>Hi 👋 I'm Rahul J</h1>
@@ -36,43 +36,40 @@
 <div align="center">
 <h2>💻 Tech Stack</h2>
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />&emsp;
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />&emsp;
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />&emsp;
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />&emsp;
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />&emsp;
-<!--   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>&emsp;
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>&emsp;
+  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
 
   <h3>Hosting/SaaS</h3>
-  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />&emsp;
-<!--   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" /> -->
+  <a href="https://docs.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>&emsp;
+  <a href="https://vercel.com/docs"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
 
   <h3>Frameworks, Platforms & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />&emsp;
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />&emsp;
-  <!-- <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" /> -->
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" />&emsp;
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />&emsp;
-<!--   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" /> -->
-  <img src="https://skillicons.dev/icons?i=sass" alt="SASS" />&emsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" />&emsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-
-  <!-- <h3>Servers</h3> -->
-<!--   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" /> -->
+  <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>&emsp;
+  <a href="https://redux.js.org/introduction/getting-started"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>&emsp;
+  <!-- <a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=next" alt="NextJS" /></a>&emsp; -->
+  <a href="https://nodejs.org/en/docs"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" /></a>&emsp;
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>&emsp;
+  <a href="https://styled-components.com/docs"><img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" /></a>&emsp;
+  <a href="https://sass-lang.com/documentation/"><img src="https://skillicons.dev/icons?i=sass" alt="SASS" /></a>&emsp;
+  <a href="https://tailwindcss.com/docs/installation"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" /></a>&emsp;
+  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
 
   <h3>Database</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />&emsp;
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>&emsp;
+  <a href="https://supabase.com/docs"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>&emsp;
+  <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
 
   <h3>Software & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS-Code" />&emsp;
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />&emsp;
-  <img src="https://skillicons.dev/icons?i=github" alt="Git Hub" />&emsp;
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />&emsp;
-  <img src="https://skillicons.dev/icons?i=linux" alt="LINUX" /> 
-  <!-- <img src="https://skillicons.dev/icons?i=babel" alt="babel" />
-  <img src="https://skillicons.dev/icons?i=webpack" alt="WebPack" />  -->
+  <a href="https://code.visualstudio.com/docs"><img src="https://skillicons.dev/icons?i=vscode" alt="VS-Code" /></a>&emsp;
+  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>&emsp;
+  <a href="https://github.com/rahuljsaliaan"><img src="https://skillicons.dev/icons?i=github" alt="Git Hub" /></a>&emsp;
+  <a href="https://help.figma.com/hc/en-us"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>&emsp;
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="LINUX" /></a> 
+  <!-- <a href="https://babeljs.io/docs/"><img src="https://skillicons.dev/icons?i=babel" alt="babel" /></a>
+  <a href="https://webpack.js.org/concepts/"><img src="https://skillicons.dev/icons?i=webpack" alt="WebPack" /></a> -->
 </div><br>
 
 <!-- GitHub Stats -->
