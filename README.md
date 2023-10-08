@@ -64,6 +64,7 @@
 
   <h3>Software & Tools</h3>
   <a href="https://code.visualstudio.com/docs"><img src="https://skillicons.dev/icons?i=vscode" alt="VS-Code" /></a>&emsp;
+  <a href="https://vitejs.dev/guide/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>&emsp;
   <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>&emsp;
   <a href="https://github.com/rahuljsaliaan"><img src="https://skillicons.dev/icons?i=github" alt="Git Hub" /></a>&emsp;
   <a href="https://help.figma.com/hc/en-us"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>&emsp;
