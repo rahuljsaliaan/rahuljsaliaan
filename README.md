@@ -83,7 +83,5 @@
 <hr><br>
 <!-- Profile View Count-->
 <div>
-<a href="https://visitcount.itsvg.in/api?id=rahuljsaliaan&icon=2&color=0">
-  <img src="https://visitcount.itsvg.in/api?id=rahuljsaliaan&icon=2&color=0" alt="Visit Count" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=rahuljsaliaan&style=for-the-badge" />
 </div>
