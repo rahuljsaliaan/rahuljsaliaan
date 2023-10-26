@@ -78,7 +78,6 @@
 <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljsaliaan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=rahuljsaliaan&theme=react&hide_border=true&include_all_commits=false&count_private=false" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahuljsaliaan&theme=react&hide_border=true" />
 </div>
 <hr><br>
 <!-- Profile View Count-->
