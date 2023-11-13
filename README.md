@@ -7,10 +7,10 @@
 </div><br>
 
 <div align="center">
-  <p>🤝 Open to collaborate on exciting React projects. Let's build something amazing together</p>
-  <p>🌱 Constantly learning about React and staying updated with the latest trends. Knowledge is power</p>
-  <p>💬 Have any questions about JavaScript or need help with React app development? Feel free to ask</p>
-  <p>⚡ Fun Fact - As a full-stack developer, I turn caffeine into code! ☕️💻</p>
+  <p>👋 Open to collaborate on exciting MERN stack projects. Let's create something extraordinary together</p>
+  <p>🧠 Constantly expanding my knowledge of the MERN stack and staying up-to-date with the latest trends. Empowering my projects with the latest tech</p>
+  <p>💬 Have questions about JavaScript, or need assistance with MERN stack app development? Don't hesitate to reach out. I'm here to help</p>
+  <p>⚡ Fun Fact: As a full-stack developer, I turn caffeine into code! ☕️💻</p>
 </div><br>
 
 <div align="center">
