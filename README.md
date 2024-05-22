@@ -38,9 +38,10 @@
   <h3>Languages</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>&emsp;
   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>&emsp;
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>&emsp;
+  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>&emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>&emsp;
-  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
 
   <h3>Frameworks, Platforms & Libraries</h3>
   <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>&emsp;
