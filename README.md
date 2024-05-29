@@ -4,7 +4,8 @@
 
 <div align="center">
   <h1>Hi 👋 I'm Rahul J</h1>
-  <h3>Software Development Engineer 👨‍💻 | Microservices Architect 🏗️ | AI Enthusiast 🧠 | DevOps Practitioner 🚀 | JavaScript Expert <img height="15em" src="https://skillicons.dev/icons?i=js"/> | Caffeine Coder ☕</h3>
+  <h3>Software Development Engineer 👨‍💻 | Microservices Architect 🏗️ | AI Enthusiast 🧠 |</h3>
+  <h3>DevOps Practitioner 🚀 | JavaScript Expert <img height="15em" src="https://skillicons.dev/icons?i=js"/> | Caffeine Coder ☕</h3>
 </div>
 
 <div align="center">
