@@ -55,8 +55,10 @@
   <a href="https://legacy.reactjs.org/docs/getting-started.html" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>&emsp;
   <a href="https://nextjs.org/docs" title="Next.js"><img src="https://skillicons.dev/icons?i=next" alt="Next" /></a>&emsp;
   <a href="https://redux.js.org/introduction/getting-started" title="Redux"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>&emsp;
+  <a href="https://d3js.org/getting-started" title="D3"><img src="https://skillicons.dev/icons?i=d3" alt="D3" /></a>&emsp;
   <a href="https://sass-lang.com/documentation/" title="SASS"><img src="https://skillicons.dev/icons?i=sass" alt="SASS" /></a>&emsp;
   <a href="https://tailwindcss.com/docs/installation" title="TailwindCSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" /></a>&emsp;
+  <a href="https://styled-components.com/docs" title="StyledComponents"><img src="https://skillicons.dev/icons?i=styledcomponents" alt="StyledComponents" /></a>&emsp;
 
   <h3>Database and Caching</h3>
   <a href="https://www.mongodb.com/docs/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>&emsp;
