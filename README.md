@@ -52,6 +52,7 @@
   <h3>Frameworks, Platforms & Libraries</h3>
   <a href="https://nodejs.org/en/docs" title="NodeJS"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" /></a>&emsp;
   <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>&emsp;
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>&emsp;
   <a href="https://legacy.reactjs.org/docs/getting-started.html" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>&emsp;
   <a href="https://nextjs.org/docs" title="Next.js"><img src="https://skillicons.dev/icons?i=next" alt="Next" /></a>&emsp;
   <a href="https://redux.js.org/introduction/getting-started" title="Redux"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>&emsp;
