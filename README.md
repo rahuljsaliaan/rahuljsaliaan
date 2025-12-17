@@ -81,8 +81,7 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljsaliaan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><br> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rahuljsaliaan&theme=react&hide_border=true&include_all_commits=false&count_private=false" /><br>
+  <img src="https://git-stats-plum.vercel.app/api?username=rahuljsaliaan&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" /><br>
   <img src="https://git-stats-plum.vercel.app/api/wakatime?username=rahuljsaliaan&layout=compact&theme=react&hide_border=true" /><br>
 </div>
 
