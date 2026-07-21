@@ -81,7 +81,7 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://readme-streak-stats-snowy.vercel.app/?user=rahuljsaliaan&ring=ffa500&fire=ffa500&currStreakNum=bebec3&theme=react" /><br>
+  <img src="https://readme-streak-stats-snowy.vercel.app/?user=rahuljsaliaan&ring=ffa500&fire=ffa500&currStreakNum=bebec3&theme=react&hide_border=true" /><br>
   <img src="https://git-stats-plum.vercel.app/api/wakatime?username=rahuljsaliaan&layout=compact&theme=react&hide_border=true" /><br>
 </div>
 
