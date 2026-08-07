@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌊 Hi, I'm Rahul J
+# 🤖 Hi, I'm Rahul J
 
 ### Software Development Engineer · **Agentic AI**
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://rahulj.dev"><img src="https://img.shields.io/badge/🌐%20Portfolio-rahulj.dev-38F2E5?style=for-the-badge&labelColor=0F111A" alt="Portfolio" /></a>&nbsp;
+<a href="https://rahuljsaliaan.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-rahuljsaliaan.vercel.app-38F2E5?style=for-the-badge&labelColor=0F111A" alt="Portfolio" /></a>&nbsp;
 <a href="https://drive.google.com/file/d/1fuLivFQKP7puUvAgYey_URC0uPIZHQvu/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Résumé-View-5EF2C9?style=for-the-badge&labelColor=0F111A" alt="Résumé" /></a>&nbsp;
 <a href="mailto:rahuljsaliaan@gmail.com"><img src="https://img.shields.io/badge/✉%20Email-Say%20hello-B388FF?style=for-the-badge&labelColor=0F111A" alt="Email" /></a>
 
@@ -127,5 +127,5 @@
 <br>
 
 <div align="center">
-  <sub>🌊 Building an ocean of knowledge, one agent at a time.</sub>
+  <sub>🤖 Building an ocean of knowledge, one agent at a time.</sub>
 </div>
